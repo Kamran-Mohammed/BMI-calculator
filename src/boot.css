@@ -1,0 +1,27 @@
+.monospace {
+  font-family: monospace;
+}
+.cursive {
+  font-family: cursive;
+}
+.inherit {
+  font-family: inherit;
+}
+.large {
+  font-size: 1rem;
+}
+.x-large {
+  font-size: 4 * 1.5rem;
+}
+.xx-large {
+  font-size: 2rem;
+}
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
